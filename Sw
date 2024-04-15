@@ -1,0 +1,4 @@
+Quai_Thu2 = {
+[Lapis] = {name_5 = "19801", name_6 = "19801", IDAP = Lapis},
+[10112] = {name_5 = "❪5✰❫ ɪsᴇʟɪᴀ", name_6 = "❪6✰❫ ɪsᴇʟɪᴀ", IDAP = 10112}
+}
